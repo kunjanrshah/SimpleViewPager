@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/SimpleViewPager/res/layout
+END
+farleft.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/SimpleViewPager/res/layout/farleft.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SimpleViewPager/res/layout/main.xml
+END
+farright.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/SimpleViewPager/res/layout/farright.xml
+END
+left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10/trunk/SimpleViewPager/res/layout/left.xml
+END
+right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/SimpleViewPager/res/layout/right.xml
+END
+middle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/SimpleViewPager/res/layout/middle.xml
+END
